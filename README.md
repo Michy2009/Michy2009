@@ -42,3 +42,5 @@ Funzionalità principali: gestione automatizzata, dashboard personalizzata e sup
 ## 📊 GitHub Stats
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=Michy2009&show_icons=true&theme=radical)
+
+![trophy](https://github-profile-trophy.vercel.app/?username=Michy2009&theme=onedark&column=7&margin-w=10&margin-h=15)
