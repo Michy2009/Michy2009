@@ -43,4 +43,4 @@ Funzionalità principali: gestione automatizzata, dashboard personalizzata e sup
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=Michy2009&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Michy2009&layout=compact&theme=radical)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Michy2009&theme=react-dark)
