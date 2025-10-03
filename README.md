@@ -28,7 +28,7 @@ Mi piace creare strumenti utili e bot innovativi, esplorando linguaggi moderni e
 Bot per partnership interamente scritto in **TypeScript** e **MariaDB**.  
 Funzionalità principali: gestione automatizzata, dashboard personalizzata e supporto multi-server.
 
-###🔹HyperGames
+### 🔹HyperGames
 👀 coming soon... 
 
 ---
