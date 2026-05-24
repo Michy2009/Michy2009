@@ -8,6 +8,8 @@
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/HTML/html1.svg">
   <img src= "https://ziadoua.github.io/m3-Markdown-Badges/badges/CSS/css2.svg">
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Arduino/arduino1.svg">
+  <img src ="https://ziadoua.github.io/m3-Markdown-Badges/badges/C/c2.svg">
+
 
     
 </div>
