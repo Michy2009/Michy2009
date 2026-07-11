@@ -1,38 +1,28 @@
-
 <h1 align="center">
   <b>Michy</b>
 </h1>
-
 <p>
 <div align="center">
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/HTML/html1.svg">
   <img src= "https://ziadoua.github.io/m3-Markdown-Badges/badges/CSS/css2.svg">
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Arduino/arduino1.svg">
   <img src ="https://ziadoua.github.io/m3-Markdown-Badges/badges/C/c2.svg">
-
-
     
 </div>
 </p>
 
-```JavaScript
-class Michy extends Profile {
-  constructor() {
-    this.name = "Michele";
-    this.username = "Michy";
-    this.location = "Italy";
-    this.languages = ["Arduino"; "HTML"; "CSS"];
-    this.discord_name = "mi_chyi";
-
-  }
-  name() {
-    return this.name;
-  }
-}
-
-const me = new michy__();
+```ssh
+michy@italy:~$ neofetch
 ```
-
+```ssh
+     .--.        michy@italy
+    |o_o |       ----------------
+    |:_/ |       Nome:      Michele
+   //   \ \      Location:  Italy
+  (|     | )     Linguaggi: Arduino, HTML, CSS
+ /'\_   _/`\     Discord:   mi_chyi
+ \___)=(___/
+```
 
 <br/>
 <p align="left">
